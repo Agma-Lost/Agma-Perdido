@@ -1,4 +1,4 @@
-# 👾 Olá, eu sou o Agma
+# 👾 Olá, eu sou Agma
 
 - 💻 Estudante de Desenvolvimento Back-End  
 - 🚀 Trabalhando com JavaScript, Node.js e bancos de dados  
